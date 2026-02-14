@@ -5,19 +5,19 @@ import { TREE_INFO } from '../constants';
 
 const galleryImages = [
   {
-    url: "https://images.unsplash.com/photo-1550948537-130a1ce83314?q=80&w=2072&auto=format&fit=crop",
+    url: "https://media.istockphoto.com/id/1284720085/photo/yellow-saraca-or-saracca-thaipingensis-cantley-ex-prain.jpg?s=612x612&w=0&k=20&c=hwagDPzs2Iym-vwqEHaRH8W9KLlCPZ8eQhPaNLK-cZw=",
     caption: "Vibrant Orange-Yellow Blooms"
   },
   {
-    url: "https://images.unsplash.com/photo-1518531933037-9a847e0f3886?q=80&w=2000&auto=format&fit=crop",
+    url: "https://cdn.create.vista.com/api/media/small/573930446/stock-photo-fresh-newly-growing-leaves-polyalthia-longifolia-ashoka-tree-native-india",
     caption: "Lush Green Medicinal Foliage"
   },
   {
-    url: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2000&auto=format&fit=crop",
+    url: "https://lalitenterprise.com/cdn/shop/files/Ashoka_Pendula_Plant_4.webp?v=1766302074&width=1445",
     caption: "A Symbol of Peace in Nature"
   },
   {
-    url: "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?q=80&w=2000&auto=format&fit=crop",
+    url: "https://media.istockphoto.com/id/1499852453/photo/saraca-asoca-commonly-known-as-the-ashoka-tree-is-the-state-flower-of-indian-state-of-odisha.jpg?s=612x612&w=0&k=20&c=8tqaxtYmUnmDEQF5RzDjV7rNxis8A7xwYnwqxzcWEWY=",
     caption: "Sacred groves and biodiversity"
   }
 ];
